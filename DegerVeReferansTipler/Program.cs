@@ -8,6 +8,8 @@ namespace DegerVeReferansTipler
         {
             int sayi1 = 10;
             int sayi2= 
+
+
         }
     }
 }
