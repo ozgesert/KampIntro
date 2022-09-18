@@ -29,5 +29,7 @@ namespace OOP1
             Console.WriteLine(sayi1 + sayi2);
            
         }
+
+
     }
 }
